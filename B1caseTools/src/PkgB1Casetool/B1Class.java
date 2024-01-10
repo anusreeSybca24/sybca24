@@ -7,4 +7,8 @@ public class B1Class {
 		System.out.println("Hello world");
 	}
 
+	
+	void newbranch() {
+		System.out.println("merge and pull");
+	}
 }
