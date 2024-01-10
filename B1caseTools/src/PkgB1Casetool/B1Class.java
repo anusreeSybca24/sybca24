@@ -10,9 +10,18 @@ String name;
 	}
 
  
+	
+	void  display2()
+{
+		System.out.println("new branch");	
+		
+		}
+
+
+ 
 	void display() {
 		System.out.println("branch pull request");
 	}
-	
+
 }
 
