@@ -6,5 +6,11 @@ public class B1Class {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 	}
-
+ 
+	
+	void  display2()
+{
+		System.out.println("new branch");	
+		
+		}
 }
