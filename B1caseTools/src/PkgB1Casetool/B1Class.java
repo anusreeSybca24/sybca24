@@ -9,6 +9,11 @@ String name;
 		System.out.println("Hello world");
 	}
 
+ ver2.1
+	
+	void newbranch() {
+		System.out.println("merge and pull");
+	}
  
 	void display() {
 		System.out.println("branch pull request");
